@@ -1,4 +1,6 @@
 # Project : COVID-19 Face Mask Detector
+
+-----------------------------------------------------------------------------------------------
 Face Mask Detection system built with OpenCV, Keras/TensorFlow using Deep Learning in order to detect face masks in static images and videos as well as in real-time video streams
 
 Motivation
